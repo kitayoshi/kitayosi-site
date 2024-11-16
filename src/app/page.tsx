@@ -87,7 +87,7 @@ export default function Home() {
                 <div className={styles.infoContent}>
                   {infoItem.contentLink ? (
                     <a
-                      className={styles.infoContentLink}
+                      className={styles.infoLink}
                       href={infoItem.contentLink}
                       target="_blank"
                     >

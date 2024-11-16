@@ -46,7 +46,7 @@
 
 /* Enable hover only on non-touch devices */
 @media (hover: hover) and (pointer: fine) {
-  a:hover {
+  .infoLink:hover {
     text-decoration: underline;
     text-underline-offset: 4px;
   }
