@@ -57,6 +57,11 @@ export default function Home() {
       contentLink: "https://www.linkedin.com/in/kitayoshi-son",
     },
     {
+      title: "Strava",
+      content: "https://www.strava.com/athletes/60457398",
+      contentLink: "https://www.strava.com/athletes/60457398",
+    },
+    {
       title: "email (# -> @)",
       content: "midare#utakana.de",
     },
