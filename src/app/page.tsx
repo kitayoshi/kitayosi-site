@@ -62,6 +62,11 @@ export default function Home() {
       contentLink: "https://www.strava.com/athletes/60457398",
     },
     {
+      title: "Cereal",
+      content: "https://cereal.cat/",
+      contentLink: "https://cereal.cat/",
+    },
+    {
       title: "email (# -> @)",
       content: "midare#utakana.de",
     },
